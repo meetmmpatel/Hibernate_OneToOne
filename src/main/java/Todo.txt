@@ -1,0 +1,13 @@
+
+
+1. One to One relation between two tables
+
+
+2. Create model class for two tables
+ 2.1 Employee...
+ 2.2 Account ..
+
+  -- Each employee has one account..
+
+3. Hibernate Creat/Read/Update/Delete
+
